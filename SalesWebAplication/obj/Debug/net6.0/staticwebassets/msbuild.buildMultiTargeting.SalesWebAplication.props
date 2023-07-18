@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SalesWebAplication.props" />
+</Project>
